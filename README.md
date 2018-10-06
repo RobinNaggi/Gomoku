@@ -58,7 +58,7 @@ Evil AI sprouted from a mistake in our algorithm that made it impossible to beat
 * **Isaiah Scheel** -  [Isaiaher](https://github.com/Isaiaher)
 * **Nick Wagner** - No public GitHub
 * **Jacob Rohweder** - No public GitHub
-* **Robin Naggi** - No public GitHub
+* **Robin Naggi** - [RobinNaggi](https://github.com/RobinNaggi)
 
 
 ## License
